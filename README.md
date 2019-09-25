@@ -26,7 +26,7 @@ Followed by...
 npm start
 ```
 
-###Simple build for production
+### Simple build for production
 
 ```
 npm run build
