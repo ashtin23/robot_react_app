@@ -39,7 +39,7 @@ npm run build
 
 ## Authors
 
-* **Ashtin Latting** - *Initial work* - [PurpleBooth](https://github.com/ashtin23)
+* **Ashtin Latting** - *Initial work* - [ashtin23](https://github.com/ashtin23)
 
 
 ## License
